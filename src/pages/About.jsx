@@ -3,7 +3,7 @@ export default function About() {
     <div className="about">
       <h2>Your Project Page</h2>
       <p>
-        Use this page to describe your hackathon project! You can rename it,
+        Use this page to describe your project! You can rename it,
         add sections for team members, features, or demos.
       </p>
       <div className="card-grid">
