@@ -1,16 +1,28 @@
-# React + Vite
+# 🧩 WIE Code Hackathon Template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **WIE Code Hackathon Starter Template**!  
+This React template gives you a clean, ready-to-use starting point for your hackathon project.
 
-Currently, two official plugins are available:
+It includes:  
+- A **Home page** with a hero section and a button to navigate  
+- A **Second page** for describing your project or features  
+- A **clean, minimal design** with WIE-themed colors  
+- Easy-to-customize layout and components  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Getting Started
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+1. **Clone this repository** (or use the template button on GitHub):
 
-## Expanding the ESLint configuration
+git clone https://github.com/<your-username>/hackathon-template.git
+cd hackathon-template
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2. **Install dependencies:
+npm install
+
+3. **Run the development server:
+npm run dev
+
+Open your browser and go to http://localhost:5173 to see the website.
+
