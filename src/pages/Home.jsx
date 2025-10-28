@@ -8,7 +8,7 @@ export default function Home() {
       <section className="hero">
         <h2>Welcome to <span className="highlight">WIEEE Code</span></h2>
         <p>
-          Kickstart your hackathon project using this ready-to-use React template.
+          Kickstart your project using this React template.
           Customize it with your own idea, theme, and creativity!
         </p>
         <button onClick={() => navigate('/about')}>Go to Project Page</button>
