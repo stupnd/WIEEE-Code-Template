@@ -3,6 +3,7 @@ import Home from './pages/Home'
 import About from './pages/About'
 import Navbar from './components/Navbar'
 import Stuti from './pages/Stuti'
+import Button from './components/Button.jsx'
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <Route path="/stuti" element={<Stuti />} />
         <Route path="/about" element={<About />} />
       </Routes>
+   
     </div>
   )
 }

@@ -1,5 +1,5 @@
 :root {
-  --primary-color: #8c52ff;
+  --primary-color: #1b4708;
   --light-bg: #f9f7ff;
   --dark-text: #222;
 }
@@ -18,7 +18,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1rem 2rem;
+  padding: 1rem 1rem;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
@@ -63,14 +63,15 @@ button {
   background: var(--primary-color);
   color: white;
   border: none;
-  border-radius: 6px;
+  border-radius: 100px;
   padding: 0.75rem 1.25rem;
   cursor: pointer;
   font-size: 1rem;
 }
 
 button:hover {
-  background: #713fff;
+  background: #aeff00;
+
 }
 
 /* About */
